@@ -26,3 +26,8 @@ heappush() is used to insert elements to the heap
 Removing items
 heappop() function is used to remove the element at the first index.
 
+
+
+TUPLES
+Tuples allow for the storage of several objects in a single variable.
+They are ordered and unchangeable
